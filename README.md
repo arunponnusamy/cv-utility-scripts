@@ -1,4 +1,5 @@
 ## Computer Vision Utility Scripts
+Reusable helper scripts to save time.
 
 ## Video to frames
 
